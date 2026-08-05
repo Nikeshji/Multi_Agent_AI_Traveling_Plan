@@ -1,3 +1,4 @@
+!Image[<img width="1914" height="1107" alt="image" src="https://github.com/user-attachments/assets/e5282d2b-e02d-4408-ba2a-16d0f53a0099" />]
 ✈️ AI Travel Booking System
 🤖 Real-World Multi-Agent AI System built with LangGraph
 
@@ -34,5 +35,5 @@ Python 3.10+
 PostgreSQL (optional — falls back to in-memory)
 API Keys: Groq | Tavily | AviationStack
 
-!Image[<img width="1914" height="1107" alt="image" src="https://github.com/user-attachments/assets/e5282d2b-e02d-4408-ba2a-16d0f53a0099" />]
+
 
